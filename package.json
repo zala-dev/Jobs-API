@@ -5,10 +5,9 @@
   "main": "app.js",
   "author": "Bhagirathsinh Zala",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.20"
